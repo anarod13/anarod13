@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Ana Rodríguez, a Software Developer living in Argentina 🇦🇷
+### Hi there 👋 
+## I'm Ana Rodríguez, a Software Developer living in Argentina 🇦🇷
 
 I jumped into Software Developer about 2 years ago. I started working as a Front-end Developer, but along the way I've been  leaning towards back-end, so lately I've been focusing on writing performative, strong and maintainable code, by strengthening my knowledge in SOLID principals and Design Patterns. 
 
